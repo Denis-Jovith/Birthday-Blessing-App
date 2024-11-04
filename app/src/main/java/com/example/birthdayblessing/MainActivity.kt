@@ -87,6 +87,7 @@ fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) 
     }
 }
 
+//This is for previewing offline
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
